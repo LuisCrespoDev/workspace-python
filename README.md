@@ -9,7 +9,6 @@ Neste repositório, você encontrará uma variedades de projetos que estou desen
 ### Tecnologias/Ferramentas utilizadas até o momento:
 
 - Python
-- Testando
 
 ###### Fique à vontade para explorar os projetos e acompanhar o desenvolvimento da minha carreira. Sinta-se livre para deixar comentários e sugestões para me apoiar!
 
