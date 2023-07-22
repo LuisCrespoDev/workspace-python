@@ -1,7 +1,7 @@
 # Sobre meus Projetos de Python
 <br>
 
-![GitHub last commit](https://github.com/LuisCrespoDev/workspace-python)
+![GitHub last commit](https://img.shields.io/github/last-commit/LuisCrespoDev/workspace-python)
 
 Neste repositório, você encontrará uma variedades de projetos que estou desenvolvendo individualmente.
 
